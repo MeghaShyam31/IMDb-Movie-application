@@ -4,8 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 import { Link } from "react-router-dom";
 import MovieList from "../../components/movieList/movieList";
-/* learn usestate, carousel is for automatic changing of movies list and all is return in car. so thaht every thing changes as slides
-learn link tag, link, i tag,skeleton loading,useparams,hover in css, animantion in css*/
+
 
 const Home = () => {
 
